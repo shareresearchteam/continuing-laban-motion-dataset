@@ -1,5 +1,4 @@
 # continuing-laban-motion-dataset
-data from Kinova gen3 expressive motion collection round 2
 
 A new dataset collected to detect qualities of expressivity in robotic arm trajectories. This dataset was released as part of an HRI conference paper under review entitled "Replicating Automatic Laban Effort Labeling for Robot Arm Motion in a New Task Context". Please cite this paper to acknowledge use of the dataset. 
 
@@ -10,7 +9,6 @@ This short paper is a replication of a previous RA-L paper entitled "Can We Auto
 
 
 <img src="Bookcase_setup_v2.png" width="400" >
-
 
 
 This data was collected with two ideas from the study of human movement in mind: Laban Motion Analysis, and especially the subtopic of Laban Efforts. Within the dataset, files are named by <Participant#_Condition>.csv, with condition labels being one of 8 specific styles based on the Laban Effort poles: 
