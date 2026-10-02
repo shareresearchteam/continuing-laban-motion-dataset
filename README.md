@@ -11,7 +11,7 @@ This short paper is a replication of a previous RA-L paper entitled "Can We Auto
 <img src="Bookcase_setup_v2.png" width="400" >
 
 
-This data was collected with two ideas from the study of human movement in mind: Laban Motion Analysis, and especially the subtopic of Laban Efforts. Within the dataset, files are named by <Participant#_Condition>.csv, with condition labels being one of 8 specific styles based on the Laban Effort poles: 
+This data was collected with two ideas from the study of human movement in mind: Laban Motion Analysis, and especially the subtopic of Laban Efforts. Within the dataset, files are named by <Participant#_Condition>.csv, with condition labels being one of 8 specific styles based on the Laban Effort Axes: 
 Weight axis:
 - A --> Strong
 - B --> Light
