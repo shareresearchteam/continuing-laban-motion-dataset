@@ -25,6 +25,7 @@ Time axis:
 - G --> Sustained
 - H --> Sudden
 
+Note that some participants do not have the full 8 motion logs due to issues with the robot recording process. 
 <!-- In the raw data files, the file name ending "_new" indicate motions that were truncated in post-processing steps. -->
 
 ## Folder Organization
